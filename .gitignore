@@ -1,0 +1,5 @@
+.terraform.lock.hcl
+Design.txt
+terraform.tfstate
+.terraform
+terraform.tfstate.backup
